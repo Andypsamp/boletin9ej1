@@ -34,7 +34,7 @@ public class MenuClientes {
 
     }
     /*  public void getNumClientes(){
-     System.out.println(" nº persoas = "+ (3 * pulpo) / 2);
+     System.out.println(" nº personas = "+ (3 * pulpo) / 2);
      }*/
 
 }
