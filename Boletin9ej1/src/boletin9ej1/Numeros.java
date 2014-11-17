@@ -4,7 +4,6 @@ package boletin9ej1;
 import javax.swing.JOptionPane;
 
 public class Numeros {
-    //variables
   private int numero;
     //constructor por defecto
     public Numeros(){
