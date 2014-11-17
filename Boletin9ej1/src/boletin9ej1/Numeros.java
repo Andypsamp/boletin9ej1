@@ -19,6 +19,7 @@ public class Numeros {
         int valor = Integer.parseInt(respuesta);
         return valor;
     }
+    //metodo sacarNumeros
     public void sacarNumeros(int num1){
          Numeros obj=new Numeros();
          //estructura repetitiva
